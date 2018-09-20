@@ -1,0 +1,410 @@
+{
+
+  "house_2":{
+    "plotNumber":9037,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AA5JgIAAiUIiHAAIAACQIlVAAIAAifIiLAAIAAsiQABADB+AAIB8gBIAAj8IJZAAIAAD6IEKAAIAAMvIieAAIAACWg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1768.7,
+    "outlinePosY":787,
+    "status":"Sold"
+  },
+
+  "house_3":{
+    "plotNumber":9033,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"ABTJfIAAiZIiRAAIAACOIlbAAIAAiQIibAAIAAsuIEOAAIAAj0IJPAAIAAD2IEMAAIAAMlIifAAIAACig",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1654.3,
+    "outlinePosY":778.5,
+    "status":"Available"
+  },
+
+  "house_4":{
+    "plotNumber":9029,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"ABEJeIAAiXIiJAAIAACQIlQAAIAAiQIijAAIAAshIEFAAIAAkDIJaAAQAGDxgBAEIgBAAIABAAIENAAIAAMtIikAAIAACZg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1490,
+    "outlinePosY":778.1,
+    "status":"Available"
+  },
+
+  "house_5":{
+    "plotNumber":9025,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"ABIJeIAAiXIiIAAIAACQIlRAAIAAiQIijAAIAAshIEFAAIAAkDIJaAAQAHDxgCAEIAAAAIAAAAIECAAIAALaIABAAIACBTIibAAIAACZg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1376.9,
+    "outlinePosY":786.6,
+    "status":"Sold"
+  },
+
+  "house_6":{
+    "plotNumber":9021,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"ABHJeIAAiXIiIAAIAACQIlRAAIAAiQIijAAIAAsuIEFAAIAAj2IJaAAQAHDxgCAEIAAAAIAAAAIEHAAIAAMtIidAAIAACZg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1235.9,
+    "outlinePosY":786.6,
+    "status":"Sold"
+  },
+
+  "house_7":{
+    "plotNumber":8110,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AlQImIAAuuIBYAAIAAidIFIAAIAACdIECAIIAAOmg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1125.4,
+    "outlinePosY":1850.7,
+    "status":"Available"
+  },
+
+  "house_8":{
+    "plotNumber":8108,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AlKIkIgEkEIAAqtIBgAAIAAiWIFFAAIAACWID4AAIAAOxg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1192.6,
+    "outlinePosY":1876.9,
+    "status":"Sold"
+  },
+
+  "house_9":{
+    "plotNumber":8106,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AlJImIAAuuIBQAAIAAidIFNAAIAACdID2AAIAAECIgBAAIAAKsg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1320.9,
+    "outlinePosY":1850.7,
+    "status":"Available"
+  },
+
+  "house_10":{
+    "plotNumber":8104,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AlaIkIAAuxIBuAAIAAiWIE4AAIAACWIEOAAIAAOxg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1388.5,
+    "outlinePosY":1876.9,
+    "status":"Available"
+  },
+
+  "house_11":{
+    "plotNumber":8102,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AlJImIAAuuIBYAAIAAidIFCAAIAACdID5AAIAAOug",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1456.1,
+    "outlinePosY":1850.7,
+    "status":"Available"
+  },
+
+  "house_12":{
+    "plotNumber":8100,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AlUIkIAAuxIBnAAIAAiWIFBAAIAACWIEBAAIgEOxg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1523.2,
+    "outlinePosY":1876.9,
+    "status":"Available"
+  },
+
+  "house_13":{
+    "plotNumber":8049,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AmWGAIkXkjIC9izIihi2IGkmdICtC0IDEiyIIqI/IhqBuIBlBvIjwDgIhohmIhfBhIBiBvIjvDnIhvhmIh0Bqg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1024.8,
+    "outlinePosY":866.8,
+    "status":"Available"
+  },
+
+  "house_14":{
+    "plotNumber":8045,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AqvBiIC/izIiti2IGymeICpCmIDDivIEXEjIEYEqIhuBwIBlBsIjxDlIhphnIhpBXIBrB2Ij1DiIhghhIh0Bog",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":943.3,
+    "outlinePosY":944.8,
+    "status":"Available"
+  },
+
+  "house_15":{
+    "plotNumber":8041,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AFtJAQgOgDimACIogABIAAkFIj2AAIAApXID1AAIAAkkIMtAAIAAC6ICZAAIAAFLIiXAAIAACPICQAAIAAFJIiQAAIAACjg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":861.1,
+    "outlinePosY":1131.7,
+    "status":"Available"
+  },
+
+  "house_16":{
+    "plotNumber":8037,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AlmI2IAAj+Ij4AAIAApVID7AAIAAkTQBUgBAAgCIIggCQCmgBAOACIAAAAQACCuABgEICWAAIAAFKIiYAAIAACNICZAAIAAFSIiiAAIAACXg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":852.3,
+    "outlinePosY":1245.7,
+    "status":"Available"
+  },
+
+  "house_17":{
+    "plotNumber":8033,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AFtJAQgOgDimACIogACIAAkFIj2AAIAApZID1AAIAAkiIMtAAIAAC5ICZAAIAAFKIiXAAIAACQICQAAIAAFKIiQAAIAACjg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":826.5,
+    "outlinePosY":1401.1,
+    "status":"Sold"
+  },
+
+  "house_18":{
+    "plotNumber":8029,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AlmI2IAAj+Ij4AAIAApfID4gBIgGkLQBdACAAgCIIggCQCmgBAOACQACCuABgMICTABIADFRIiYAAIgBCFICZAAIABFaIiiAAIAACXg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":817.7,
+    "outlinePosY":1515.1,
+    "status":"Reserved"
+  },
+
+  "house_19":{
+    "plotNumber":8025,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AhQHvIi0CmImhmiICyisIi7i8II+o9IBwB1IBuhpIDqDqIhsBvIBiBpIBvhxIDyDuIh3BsIB2B2Io5I4g",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":900.1,
+    "outlinePosY":1705.5,
+    "status":"Available"
+  },
+
+  "house_20":{
+    "plotNumber":8021,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AhPHzIixCoImsm0ICviwIioisII4o5IBtBtIBwhvIDnDuIhoBwIBeBnIB0hwIDoDtIhpBwIBtB0IpBI7g",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":979.6,
+    "outlinePosY":1786.5,
+    "status":"Available"
+  },
+
+  "house_21":{
+    "plotNumber":7100,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AjtIkIAAiWIhnAAIAAuxIKlAAIAEOxIkBAAIAACWg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1523.2,
+    "outlinePosY":2101.3,
+    "status":"Sold"
+  },
+
+  "house_22":{
+    "plotNumber":7102,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AjoImIAAidIhgAAIgHkEIgDqqIKkAAIAAOuIj4AAIAACdg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1455.3,
+    "outlinePosY":2127.5,
+    "status":"Sold"
+  },
+
+  "house_23":{
+    "plotNumber":7104,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AjkInIAAiXIhuAAIAAuxIKlgFIgCEJIACKrIkAACIAACXg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1387.7,
+    "outlinePosY":2101.1,
+    "status":"Available"
+  },
+
+  "house_24":{
+    "plotNumber":7106,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"Aj8ImIAAidIhQAAIAAuuIKTAAIAAKsIABAAIAFENIj8AFIAACNg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1321.1,
+    "outlinePosY":2127.6,
+    "status":"Sold"
+  },
+
+  "house_25":{
+    "plotNumber":7108,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"Aj0IkIAAiWIhgAAIAAqtIAEkEIKlAAIgFO6Ij/gJIAACWg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1193.2,
+    "outlinePosY":2101.3,
+    "status":"Available"
+  },
+
+  "house_26":{
+    "plotNumber":7110,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"Aj4ImIAAiSIhgADIAIu8IKiAAIAAKsIAHEIIkJgGIAACdg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1125.4,
+    "outlinePosY":2127.6,
+    "status":"Coming Soon"
+  },
+
+  "house_27":{
+    "plotNumber":7033,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AqtB/IC4jCIi0inIGgmxIC2CrIC7i9II+IwIhtBxIB1BuIjmDxIhxhtIhnBnIBwBsIjoDxIhvhuIhzByg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":870.7,
+    "outlinePosY":1972.3,
+    "status":"Coming Soon"
+  },
+
+  "house_28":{
+    "plotNumber":7029,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AquB8IC+i8Ii2iuIGhmvIC1CqIC2i+IJDIvIhtB0IBzBvIjlDwIhyhoIhkBjIBtBnIjpD7IhqhwIhzB0g",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":791.9,
+    "outlinePosY":2054,
+    "status":"Reserved"
+  },
+
+  "house_29":{
+    "plotNumber":7025,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AlnEtIj8gBIACpMID5gIIAAkLIMrgGIAICrICSgCIAEFJIiZACIABCRICagDIAAFOIigADIADCdIhHAAIgEAAIgDAAIgEAAIgEAAIrVADg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":707,
+    "outlinePosY":2233.3,
+    "status":"Available"
+  },
+
+  "house_30":{
+    "plotNumber":7021,
+    "type":"cottage",
+    "bedrooms":2,
+    "outline":"AloEqIj2ACIACpUID2AAIgCkMIBbgBIAAABILVgDIgKABIACCjICfgDIgFFSIibACIgBCOICdgBIADFOIibgDIgBCfIsjADg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":698.3,
+    "outlinePosY":2346.7,
+    "status":"Coming Soon"
+  },
+
+  "house_31":{
+    "plotNumber":6114,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AonhVIBJhMIhthxIDRjWIBxBhIC2ixIKgKFInSHsg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":2091.5,
+    "outlinePosY":1687.1,
+    "status":"Reserved"
+  },
+
+  "house_32":{
+    "plotNumber":6112,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AoihZIA9hAIhwhzIDkjiIB0BkICwizIKjKOInRHtg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":2044,
+    "outlinePosY":1735.9,
+    "status":"Available"
+  },
+
+  "house_33":{
+    "plotNumber":6110,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AmNFVIAAhnIiWAAIAAlCICWAAIAAkAIOxADIAAKmg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1999.6,
+    "outlinePosY":1870.8,
+    "status":"Sold"
+  },
+
+  "house_34":{
+    "plotNumber":6108,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AmIFKIAAhYIidAAIAAlCICdAAIAAj5IOuAAIAAKTg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1973.4,
+    "outlinePosY":1937.9,
+    "status":"Reserved"
+  },
+
+  "house_35":{
+    "plotNumber":6106,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AmNFaIAAhuIiWAAIAAk3ICWAAIAAkPIOxAAIAAK0g",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1999.6,
+    "outlinePosY":2005.5,
+    "status":"Available"
+  },
+
+  "house_36":{
+    "plotNumber":6104,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AmIFLIAAhRIidAAIAAlNICdAAIAAj3IECAAIAAABIKsAAIAAKUg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1973.4,
+    "outlinePosY":2073.1,
+    "status":"Reserved"
+  },
+
+  "house_37":{
+    "plotNumber":6102,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AmNFbIAAhvIiWAAIAAk3ICWAAIAAkOIOxAAIAAK0g",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1999.6,
+    "outlinePosY":2140.8,
+    "status":"Coming Soon"
+  },
+
+  "house_38":{
+    "plotNumber":6100,
+    "type":"villa",
+    "bedrooms":2,
+    "outline":"AmIFKIAAhQIidAAIAAlNICdAAIAAj2IECAAIAAABIKsAAIAAKSg",
+    "detailText":"      Magna etiam tempor orci eu lobortis elementum. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum.\n\n      Viverra vitae congue eu consequat ac felis donec et. Aliquam nulla facilisi cras fermentum odio. Aenean vel elit scelerisque mauris pellentesque. Sed arcu non odio euismod. ",
+    "outlinePosX":1973.4,
+    "outlinePosY":2208.4,
+    "status":"Reserved"
+  }
+
+}

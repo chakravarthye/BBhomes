@@ -1,0 +1,16 @@
+#canvas {
+  position: fixed;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#vrCanvas {
+  position: fixed;
+  margin-top: 11px;
+  margin-left: 11px;
+}
+#closeVRButton{
+  position: fixed;
+  margin-top: 20px;
+  margin-left: 1050px;
+}
